@@ -1,15 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>My GitHub Audio Player</title>
-</head>
-<body>
-    <h1>My Audio Track</h1>
-    <!-- Replace "your-file-name.mp3" with the exact name of your uploaded MP3 file -->
-    <audio controls>
-        <source src="your-file-name.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
-</body>
-</html>
+
